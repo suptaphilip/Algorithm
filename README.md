@@ -1,3 +1,7 @@
+# Algorithm slide
+
+https://www.cs.virginia.edu/~robins/cs6161/slides/
+
 # Algorithm
 
 https://github.com/tligorio/tligorio.github.io/blob/master/documents/Project_6.pdf
@@ -13,3 +17,4 @@ https://bradfieldcs.com/algos/graphs/word-ladder/
 https://courses.csail.mit.edu/6.006/oldquizzes/solutions/
 
 
+https://algs4.cs.princeton.edu/lectures/
