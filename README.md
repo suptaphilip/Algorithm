@@ -12,6 +12,8 @@ https://github.com/tligorio/stjohn.github.io/tree/master/teaching
 
 https://bradfieldcs.com/algos/graphs/word-ladder/
 
+https://rob-p.github.io/CSE373S19/lectures.html
+
 # Algorithm Questions
 
 https://courses.csail.mit.edu/6.006/oldquizzes/solutions/
