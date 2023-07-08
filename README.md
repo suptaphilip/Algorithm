@@ -14,6 +14,8 @@ https://courses.engr.illinois.edu/cs374al1/sp2023/lectures.html
 
 https://courses.engr.illinois.edu/cs573/fa2011/index.html
 
+https://users.cis.fiu.edu/~giri/teach/OLD_5407F07.html
+
 # Algorithm slide
 
 https://www.cs.virginia.edu/~robins/cs6161/slides/
