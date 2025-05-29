@@ -1,0 +1,12 @@
+
+
+Graph
+=================
+
+---> TSP and ant colony optimization
+
+https://www.youtube.com/watch?v=335zQkHDWRY&list=PLHn7_PzMqzs7H824br41qr1sy5T-oUgPC&index=1
+
+https://www.youtube.com/watch?v=iySJfHhYXw4
+
+https://www.youtube.com/watch?v=783ZtAF4j5g&t=1197s

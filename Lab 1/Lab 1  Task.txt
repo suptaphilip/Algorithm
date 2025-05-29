@@ -1,0 +1,43 @@
+Lab 1
+---------------
+Prerequisite
+============
+--> function
+--> Array/List and functions
+--> Pointers
+--> call by reference and call by value
+--> dynamic memory allocation in c++
+--> rand() and math.h
+--> STL
+
+Algorithm
+--> Bubble Sort
+--> Selection Sort
+--> Insertion Sort
+--> Counting Sort
+
+Lab 2 Divide and conquer
+--------------
+
+--> Recursion
+----> fibonacci
+----> Factorial
+-----> Binary Search Algorithm
+---> Merge Sort Algorithm
+---> Quick Sort Algorithm
+
+Lab 3 Greedy strategy
+-------
+---> coin change
+---> Activity Selection Algorithm
+---> Fractional Knapsack Problem
+
+Lab 4 Dynamic Programming
+---------
+--> Fibonacci problem,
+--> 0-1 Knapsack problem
+
+
+
+
+

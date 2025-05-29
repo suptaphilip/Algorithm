@@ -1,0 +1,17 @@
+
+Quiz 1 - 12 October
+=============
+--> Time and space complicity
+--> Asymptotic notation
+--> Find complicity of diff loops
+--> simulation of sorting
+--> Linear Searching
+--> Bubble sort
+--> Selection sort
+--> Insertion Sort
+
+Lab Exam/Performance
+--> Generate Random number and save in file
+--> Read number from file
+--> sorting or searching
+--> Find Time Complexity

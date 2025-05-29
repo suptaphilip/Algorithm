@@ -1,0 +1,21 @@
+Prerequisite
+============
+--> function
+--> Array/List and functions
+--> Pointers
+--> call by reference and call by value
+--> dynamic memory allocation in c++
+-----------------------------------------
+--> rand() and math.h
+--> STL
+
+Algorithm
+--> Bubble Sort
+--> Selection Sort
+--> Insertion Sort
+--> Counting Sort
+
+
+
+
+

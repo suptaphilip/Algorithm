@@ -1,0 +1,20 @@
+
+Array
+Dynamic Memory and Pointer
+
+Function
+============
+input:
+--> no arguments
+--> a number
+--> List of number/ Pointer(1D-array/2D-Matrix)
+
+output:
+--> No return(void in C++/Java)
+--> return a number
+--> return list of number/ Pointer(1D-array/2D-Matrix)
+
+
+Pointer
+=========
+--> call by reference and call by value(swap)
